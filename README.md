@@ -1,6 +1,6 @@
 A visual attention algorithm (and a GUI application) for detecting streets.
 
-Program classes and folders:
+Program classes and files:
 - Layer.py -> Creating layers that are part of the spiking neural network. If offers methods for creating connections and for plotting data.
 - ImageToSpikes.py -> Class for creating input spikes from a given picture. It provides functions for visualization and comparison.
 - Network.py -> The main program of the project. It creates the entire network from an image and specified parameters.
